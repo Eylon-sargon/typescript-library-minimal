@@ -1,5 +1,5 @@
 {
-    "name": "typescript-library-boilerplate-great-me",
+    "name": "my-insane-lib",
     "version": "0.2.3",
     "description": "typescript babel boilerplate",
     "main": "dist/index.js",
@@ -9,7 +9,7 @@
         "babel",
         "boilerplate"
     ],
-    "author": "raymen123",
+    "author": "your name",
     "license": "MIT",
     "scripts": {
         "prepublish": "npm run build",
