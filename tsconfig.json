@@ -6,7 +6,10 @@
         "outDir": "./dist",
         "allowSyntheticDefaultImports": true,
         "suppressImplicitAnyIndexErrors": true,
-        "esModuleInterop": true
+        "esModuleInterop": true,
+        "strict": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true
     },
     "files": ["./src/index.ts"]
 }
