@@ -1,5 +1,5 @@
 {
-    "name": "typescript-library-boilerplate",
+    "name": "typescript-library-boilerplate-great-me",
     "version": "0.2.0",
     "description": "typescript babel boilerplate",
     "main": "dist/index.js",
@@ -13,7 +13,7 @@
         "babel",
         "boilerplate"
     ],
-    "author": "jkanchelov",
+    "author": "raymen123",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/jkanchelov/typescript-library-boilerplate/issues"
