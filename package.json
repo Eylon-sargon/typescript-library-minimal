@@ -4,10 +4,6 @@
     "description": "typescript babel boilerplate",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/jkanchelov/typescript-library-boilerplate.git"
-    },
     "keywords": [
         "typescript",
         "babel",
