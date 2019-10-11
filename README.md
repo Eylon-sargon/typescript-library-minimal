@@ -12,10 +12,12 @@
 ## Usage
 
 ### Simply copy paste this and start coding
-
+##### Step 1:
 `git clone --depth=1 --branch=master https://github.com/Eylon-sargon/typescript-library-minimal my-ts-lib`
+
 or
+
 `git clone https://github.com/Eylon-sargon/typescript-library-minimal my-ts-lib`
 
-
-`rm -rf ./my-ts-lib/.git`
+##### Step 2:
+`rm -rf ./my-ts-lib/.git && cd my-ts-lib && npm i`
