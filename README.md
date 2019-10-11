@@ -3,10 +3,11 @@
 # typescript-library-minimal
 
 ## Goals
-### 1) Super quick to start
-### 2) Minimal
-### 3) Unopinionated
-### 4) Great dev experience
+##### 1) Super quick to start
+##### 2) Can publish to npm RIGHT AWAY
+##### 3) Minimal
+##### 4) Unopinionated
+##### 5) Great dev experience
 
 ## Usage
 
